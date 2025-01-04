@@ -1,8 +1,8 @@
 import './style.css'
 
-import Logo from '../logo'
-import HeaderOptions from '../headerOptions';
-import HeaderOptionsIcons from '../headerOptionsIcons';
+import Logo from '../Logo'
+import HeaderOptions from '../HeaderOptions';
+import HeaderOptionsIcons from '../HeaderOptionsIcons';
 
 export default function Header() {
   return (

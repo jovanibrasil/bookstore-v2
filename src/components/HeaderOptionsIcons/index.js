@@ -1,7 +1,7 @@
 import './style.css';
 
-import ProfileIcon from '../../images/perfil.svg'
-import ShoppingCartIcon from '../../images/sacola.svg'
+import ProfileIcon from '../../images/profile.svg'
+import ShoppingCartIcon from '../../images/shoppingCart.svg'
 const headerOptionsIcons = [ProfileIcon, ShoppingCartIcon];
 
 export default function HeaderOptionsIcons() {
