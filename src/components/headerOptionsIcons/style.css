@@ -1,0 +1,9 @@
+.header-options-icons-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-option-icon {
+  margin-right: 40px;
+  width: 25px;
+}
