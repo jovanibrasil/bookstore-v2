@@ -1,16 +1,10 @@
 import './App.css';
-import Logo from './components/logo'
-import HeaderOptions from './components/headerOptions';
-import HeaderOptionsIcons from './components/headerOptionsIcons';
+import Header from './components/header';
 
 function App() {
   return (
     <div className='app'>
-      <header className='app-header'>
-        <Logo />
-        <HeaderOptions />
-        <HeaderOptionsIcons />
-      </header>
+      <Header />
     </div>
   );
 }
